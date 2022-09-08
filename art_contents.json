@@ -1,0 +1,20 @@
+[
+    {
+        "file":         "/art/2022/08/mrsmiles.jpg",
+        "name":         "mr smiles",
+        "createDate":   "2022-08-15",
+        "tags": ["creepy", "marker"]
+    },
+    {
+        "file":         "/art/2022/09/movies.jpg",
+        "name":         "movies",
+        "createDate":   "2022-09-06",
+        "tags": ["anthropomorphic", "fun", "pen", "b&w"]
+    },
+    {
+        "file":     "/art/2022/09/blizzard_monster.jpg",
+        "name":     "blizzard monster",
+        "createDate": "2022-09-07",
+        "tags": ["creepy", "pencil", "b&w"]
+    }
+]
