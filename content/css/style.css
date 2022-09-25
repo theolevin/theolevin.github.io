@@ -2,3 +2,6 @@ body {
     min-height: 100vh;
 }
 .thumbnail img { max-height: 200px; }
+.art .row { 
+    margin-bottom: 5px;
+}
