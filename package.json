@@ -5,7 +5,9 @@
   "scripts": {
     "deploy": "git subtree push --prefix dist origin gh-pages",
     "dev": "vite",
-    "build": "run-p type-check build-only",
+    "full-deploy": "npm run build deploy",
+    "build": "run-p type-check build-only cp",
+    "cp" : "xcopy content\\art dist\\content /S /I /Y",
     "preview": "vite preview",
     "build-only": "vite build",
     "type-check": "vue-tsc --noEmit",
